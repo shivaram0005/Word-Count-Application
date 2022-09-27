@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.textarea-div{
+    text-align: center;
+    margin-top: 30px;
+}
+textarea{
+    font-size: 15px;
+}
+.div-btn{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.div-btn button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.character{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
